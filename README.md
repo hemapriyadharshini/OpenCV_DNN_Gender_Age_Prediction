@@ -14,7 +14,7 @@
 
 **Output2:**
 
-![image](https://user-images.githubusercontent.com/8421214/117875360-10a0ff80-b270-11eb-94d5-77adbfa02bb1.png)
+![image](https://user-images.githubusercontent.com/8421214/117987590-9d979780-b308-11eb-9ef1-c50b9b0576d1.png)
 
 **Input3:**
 
@@ -22,7 +22,7 @@
 
 **Output3:**
 
-![image](https://user-images.githubusercontent.com/8421214/117876488-6f1aad80-b271-11eb-9322-de36d491f11b.png)
+![image](https://user-images.githubusercontent.com/8421214/117987858-dd5e7f00-b308-11eb-8e48-4ff10ebb4ac6.png)
 
 **Input4:**
 
