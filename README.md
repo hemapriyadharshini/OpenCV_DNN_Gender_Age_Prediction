@@ -39,8 +39,3 @@
 **Observations:**
 While the model depicts the gender and age correctly for most cases, it did produce incorrect results for few images. Ex: The model output results showing the gender as Male when the girl's hair is covered. This shows that the model takes human features hair length, skin color, wrinkles, shape into account while predicting gender and age
 
-![image](https://user-images.githubusercontent.com/8421214/117986273-79878680-b307-11eb-93eb-23eef5f21e74.png)
-
-**Notes:**
-Made custom changes - displaying Confidence score, change box/text colors, and tested with new images on top of this guided project
-
